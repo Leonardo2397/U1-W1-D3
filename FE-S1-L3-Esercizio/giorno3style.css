@@ -1,0 +1,76 @@
+body {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+#subtitle {
+    background-color: rgb(241, 239, 220);
+    width: 100%;
+    border-top: 2px solid rgb(243, 243, 150);
+   }
+   
+   
+   #feature {
+    border-left: 2px solid yellow;
+    padding: 10px;
+   }
+   
+   
+   #orange {
+    color: rgba(212, 111, 16, 0.856);
+   }
+   
+   
+   #sauce {
+  
+    text-decoration: underline; color: #15a3db;
+   }
+   
+   
+   #ingredients {
+ border-bottom: 2px solid rgb(117, 117, 240);
+}
+
+   
+   #thanksgiving {
+   text-align: center;
+   margin-bottom: 45px;
+   }
+   
+   
+   #focaccia {
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+   }
+   
+   
+   #artist {
+    text-align: center;
+    opacity: 50%;
+   }
+
+   .list {
+    margin: 10px;
+   }
+   
+   
+   #method {
+    border-bottom: 2px solid rgb(117, 117, 240);
+   }
+   
+   
+   #logo {
+        width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+   }
+
+   #pizza {
+    border-radius: 10px;
+    width: 100%;
+   }
